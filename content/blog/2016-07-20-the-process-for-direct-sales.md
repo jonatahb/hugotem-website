@@ -3,7 +3,7 @@ date: 2022-07-13T00:00:00Z
 title: The process for direct sales
 categories:
   - sales
-author_staff_member: annas
+author_staff_member: annasy
 any_number:
 ---
 
